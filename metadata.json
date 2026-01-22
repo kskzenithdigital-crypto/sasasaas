@@ -1,0 +1,7 @@
+{
+  "name": "Click Geomaqui Refrigeração",
+  "description": "Sistema completo de agendamento técnico, gestão de ordens de serviço e relatórios administrativos para empresas de refrigeração.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
